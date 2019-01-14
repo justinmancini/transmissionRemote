@@ -14,7 +14,6 @@ Run `transmissionRemote <option> <argument>`
 Available options are:
 
     start (Requires torrent ID as argument)
-
     stop (Requires torrent ID as argument)
 
     remove (Requires torrent ID as argument)
