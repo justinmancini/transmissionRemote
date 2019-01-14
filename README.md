@@ -9,20 +9,14 @@ Script for controlling transmission via FreeNAS CLI, without having to enter the
 
 # To use
 
-Run `transmissionRemote <option> <argument`
+Run `transmissionRemote <option> <argument>`
 
 Available options are:
 
   start (Requires torrent ID as argument)
-  
   stop (Requires torrent ID as argument)
-  
   remove (Requires torrent ID as argument)
-  
   startAll
-  
   stopAll
-  
   removeAll
-  
   list
