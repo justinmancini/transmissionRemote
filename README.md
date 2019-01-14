@@ -1,6 +1,6 @@
 # Transmission Remote
 
-Script for controlling transmission via FreeNAS CLI, without having to enter the transmission jail.
+Script for calling transmission-remote via FreeNAS CLI, without having to enter the transmission jail.
 
 # To install
 
